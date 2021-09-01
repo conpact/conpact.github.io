@@ -1,2 +1,2 @@
 # conpact.github.io
-!(/assets/images/conpactsquare.svg)
+![I'm stuff](/assets/images/conpactsquare.svg)
