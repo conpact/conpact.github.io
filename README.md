@@ -1,2 +1,2 @@
-# ![I'm stuff](/assets/images/conpactwordmark.svg)
-![I'm stuff](/assets/images/conpactsquare.svg)
+# <img src="/assets/images/conpactwordmark.svg" width="250px"></img>
+<img src="/assets/images/conpactsquare.svg" width="250px"></img>
